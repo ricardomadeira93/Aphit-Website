@@ -1,0 +1,23 @@
+{
+  "menuTree": [
+    {
+      "label": "Menu",
+      "children": [
+        {
+          "label": "Home",
+          "children": [
+            {
+              "label": "Home 1.2"
+            }
+          ]
+        },
+        {
+          "label": "Contacts"
+        },
+        {
+          "label": "About"
+        }
+      ]
+    }
+  ]
+}
